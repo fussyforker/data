@@ -24,6 +24,7 @@
             },
             "item": [
               {
+                "sequence": 5,
                 "name": {
                   "bg": "пица вегетариана",
                   "en": "vegetarian pizza"
@@ -39,13 +40,40 @@
                       "en": "small"
                     },
                     "amount": 3.50
-                  }.
+                  },
                   {
                     "name": {
                       "bg": "средна",
                       "en": "medium"
                     },
                     "amount": 7.50
+                  }
+                ]
+              },
+              {
+                "sequence": 6,
+                "name": {
+                  "bg": "ди поло",
+                  "en": "di pollo"
+                },
+                "description": {
+                  "bg": "пилешко филе, царевица, маслини, моцарела",
+                  "en": "chicken fillet, corn, olives, mozarella"
+                },
+                "price": [
+                  {
+                    "name": {
+                      "bg": "малка",
+                      "en": "small"
+                    },
+                    "amount": 4.00
+                  },
+                  {
+                    "name": {
+                      "bg": "средна",
+                      "en": "medium"
+                    },
+                    "amount": 8.50
                   }
                 ]
               }
