@@ -1,0 +1,58 @@
+[
+  {
+    "id": "Дамяница, Bansko",
+    "name": {
+      "en": "Damyanitza",
+      "bg": "Дамяница"
+    },
+    "url": "https://www.foodpanda.bg/en/restaurant/m2em/damyanica-bar-and-dinner",
+    "phone": "+359889132000",
+    "messenger": "https://m.me/241483769903488",
+    "location": {
+      "latitude": "41.8368004",
+      "longitude": "23.4898265",
+      "url": "https://goo.gl/maps/juCfAb89CqPuGu7eA"
+    },
+    "menu": [
+      {
+        "type": "standard",
+        "section": [
+          {
+            "name": {
+              "bg": "пици",
+              "en": "pizza"
+            },
+            "item": [
+              {
+                "name": {
+                  "bg": "пица вегетариана",
+                  "en": "vegetarian pizza"
+                },
+                "description": {
+                  "bg": "доматен сос, чушки, царевица, маслини, моцарела",
+                  "en": "tomato sauce, peppers, corn, olives, mozarella"
+                },
+                "price": [
+                  {
+                    "name": {
+                      "bg": "малка",
+                      "en": "small"
+                    },
+                    "amount": 3.50
+                  }.
+                  {
+                    "name": {
+                      "bg": "средна",
+                      "en": "medium"
+                    },
+                    "amount": 7.50
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
