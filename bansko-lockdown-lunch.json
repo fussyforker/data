@@ -269,7 +269,18 @@
                 },
                 "price": [
                   {
+                    "name": {
+                      "bg": "супа",
+                      "en": "soup"
+                    },
                     "amount": 2.50
+                  },
+                  {
+                    "name": {
+                      "bg": "½ супа",
+                      "en": "½ soup"
+                    },
+                    "amount": 1.20
                   }
                 ]
               },
@@ -281,7 +292,18 @@
                 },
                 "price": [
                   {
+                    "name": {
+                      "bg": "супа",
+                      "en": "soup"
+                    },
                     "amount": 2.50
+                  },
+                  {
+                    "name": {
+                      "bg": "½ супа",
+                      "en": "½ soup"
+                    },
+                    "amount": 1.20
                   }
                 ]
               },
@@ -293,7 +315,18 @@
                 },
                 "price": [
                   {
+                    "name": {
+                      "bg": "супа",
+                      "en": "soup"
+                    },
                     "amount": 2.30
+                  },
+                  {
+                    "name": {
+                      "bg": "½ супа",
+                      "en": "½ soup"
+                    },
+                    "amount": 1.20
                   }
                 ]
               },
@@ -305,7 +338,18 @@
                 },
                 "price": [
                   {
+                    "name": {
+                      "bg": "супа",
+                      "en": "soup"
+                    },
                     "amount": 2.50
+                  },
+                  {
+                    "name": {
+                      "bg": "½ супа",
+                      "en": "½ soup"
+                    },
+                    "amount": 1.20
                   }
                 ]
               },
@@ -314,6 +358,244 @@
                 "name": {
                   "bg": "шкембе чорба",
                   "en": "tripe soup"
+                },
+                "price": [
+                  {
+                    "name": {
+                      "bg": "супа",
+                      "en": "soup"
+                    },
+                    "amount": 3.00
+                  },
+                  {
+                    "name": {
+                      "bg": "½ чорба",
+                      "en": "½ soup"
+                    },
+                    "amount": 1.50
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "sequence": 2,
+            "name": {
+              "bg": "основни",
+              "en": "basic"
+            },
+            "item": [
+              {
+                "sequence": 1,
+                "name": {
+                  "bg": "ориз с гъби и спанак",
+                  "en": "rice with mushrooms and spinach"
+                },
+                "price": [
+                  {
+                    "name": {
+                      "bg": "основно",
+                      "en": "basic"
+                    },
+                    "amount": 3.90
+                  },
+                  {
+                    "name": {
+                      "bg": "½ основно",
+                      "en": "½ basic"
+                    },
+                    "amount": 1.95
+                  }
+                ]
+              },
+              {
+                "sequence": 2,
+                "name": {
+                  "bg": "картофен огретен",
+                  "en": "potato gratin"
+                },
+                "price": [
+                  {
+                    "name": {
+                      "bg": "основно",
+                      "en": "basic"
+                    },
+                    "amount": 4.00
+                  },
+                  {
+                    "name": {
+                      "bg": "½ основно",
+                      "en": "½ basic"
+                    },
+                    "amount": 2.00
+                  }
+                ]
+              },
+              {
+                "sequence": 3,
+                "name": {
+                  "bg": "пиле с ориз",
+                  "en": "chicken with rice"
+                },
+                "price": [
+                  {
+                    "name": {
+                      "bg": "основно",
+                      "en": "basic"
+                    },
+                    "amount": 4.50
+                  },
+                  {
+                    "name": {
+                      "bg": "½ основно",
+                      "en": "½ basic"
+                    },
+                    "amount": 2.25
+                  }
+                ]
+              },
+              {
+                "sequence": 4,
+                "name": {
+                  "bg": "лазаня болонезе, поднесена със салата",
+                  "en": "lasagna bolognese, served with salad"
+                },
+                "price": [
+                  {
+                    "name": {
+                      "bg": "основно",
+                      "en": "basic"
+                    },
+                    "amount": 5.00
+                  },
+                  {
+                    "name": {
+                      "bg": "½ основно",
+                      "en": "½ basic"
+                    },
+                    "amount": 2.50
+                  }
+                ]
+              },
+              {
+                "sequence": 5,
+                "name": {
+                  "bg": "руло Стефани, поднесено с картофи и салата",
+                  "en": "stephanie roll, served with potatoes and salad"
+                },
+                "price": [
+                  {
+                    "name": {
+                      "bg": "основно",
+                      "en": "basic"
+                    },
+                    "amount": 4.80
+                  },
+                  {
+                    "name": {
+                      "bg": "½ основно",
+                      "en": "½ basic"
+                    },
+                    "amount": 2.40
+                  }
+                ]
+              },
+              {
+                "sequence": 6,
+                "name": {
+                  "bg": "винен кебап с ориз",
+                  "en": "wine kebab with rice"
+                },
+                "price": [
+                  {
+                    "name": {
+                      "bg": "основно",
+                      "en": "basic"
+                    },
+                    "amount": 5.00
+                  },
+                  {
+                    "name": {
+                      "bg": "½ основно",
+                      "en": "½ basic"
+                    },
+                    "amount": 2.50
+                  }
+                ]
+              },
+              {
+                "sequence": 7,
+                "name": {
+                  "bg": "шницел по виенски, поднесен с картофи и салата",
+                  "en": "viennese schnitzel, served with potatoes and salad"
+                },
+                "price": [
+                  {
+                    "name": {
+                      "bg": "основно",
+                      "en": "basic"
+                    },
+                    "amount": 6.00
+                  },
+                  {
+                    "name": {
+                      "bg": "½ основно",
+                      "en": "½ basic"
+                    },
+                    "amount": 3.00
+                  }
+                ]
+              }
+            ]
+          }
+          {
+            "sequence": 3,
+            "name": {
+              "bg": "десерти",
+              "en": "desserts"
+            },
+            "item": [
+              {
+                "sequence": 1,
+                "name": {
+                  "bg": "палачинка",
+                  "en": "pancake"
+                },
+                "price": [
+                  {
+                    "amount": 2.20
+                  }
+                ]
+              },
+              {
+                "sequence": 2,
+                "name": {
+                  "bg": "крем карамел",
+                  "en": "crème caramel"
+                },
+                "price": [
+                  {
+                    "amount": 2.20
+                  }
+                ]
+              },
+              {
+                "sequence": 3,
+                "name": {
+                  "bg": "мляко с ориз",
+                  "en": "rice pudding"
+                },
+                "price": [
+                  {
+                    "amount": 2.20
+                  }
+                ]
+              },
+              {
+                "sequence": 4,
+                "name": {
+                  "bg": "домашен течен шоколад",
+                  "en": "homemade chocolate mousse"
                 },
                 "price": [
                   {
