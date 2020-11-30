@@ -76,6 +76,60 @@
                     "amount": 8.50
                   }
                 ]
+              },
+              {
+                "sequence": 7,
+                "name": {
+                  "bg": "диболо",
+                  "en": "diabollo"
+                },
+                "description": {
+                  "bg": "доматен сос, бекон, луканка, люти чушки, моцарела",
+                  "en": "tomato sauce, bacon, sausage, chilli peppers, mozarella"
+                },
+                "price": [
+                  {
+                    "name": {
+                      "bg": "малка",
+                      "en": "small"
+                    },
+                    "amount": 4.00
+                  },
+                  {
+                    "name": {
+                      "bg": "средна",
+                      "en": "medium"
+                    },
+                    "amount": 8.50
+                  }
+                ]
+              },
+              {
+                "sequence": 8,
+                "name": {
+                  "bg": "пеперони",
+                  "en": "pepperoni"
+                },
+                "description": {
+                  "bg": "доматен сос, пеперони, люти чушки, моцарела",
+                  "en": "tomato sauce, pepperoni, chilli peppers, mozarella"
+                },
+                "price": [
+                  {
+                    "name": {
+                      "bg": "малка",
+                      "en": "small"
+                    },
+                    "amount": 4.00
+                  },
+                  {
+                    "name": {
+                      "bg": "средна",
+                      "en": "medium"
+                    },
+                    "amount": 8.00
+                  }
+                ]
               }
             ]
           }
