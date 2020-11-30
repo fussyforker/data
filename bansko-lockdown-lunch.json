@@ -5,7 +5,10 @@
       "en": "Damyanitza",
       "bg": "Дамяница"
     },
-    "url": "https://www.foodpanda.bg/en/restaurant/m2em/damyanica-bar-and-dinner",
+    "url": {
+      "facebook": "https://www.facebook.com/Дамяница-BarDinner-241483769903488",
+      "order": "https://www.foodpanda.bg/en/restaurant/m2em/damyanica-bar-and-dinner"
+    },
     "phone": "+359889132000",
     "messenger": "https://m.me/241483769903488",
     "location": {
@@ -16,6 +19,7 @@
     "menu": [
       {
         "type": "standard",
+        "source": "https://www.facebook.com/permalink.php?story_fbid=699022467482947&id=241483769903488",
         "section": [
           {
             "name": {
@@ -23,6 +27,114 @@
               "en": "pizza"
             },
             "item": [
+              {
+                "sequence": 1,
+                "name": {
+                  "bg": "маргарита",
+                  "en": "margarita"
+                },
+                "description": {
+                  "bg": "доматен сос, босилек, моцарела",
+                  "en": "tomato sauce, basil, mozarella"
+                },
+                "price": [
+                  {
+                    "name": {
+                      "bg": "малка",
+                      "en": "small"
+                    },
+                    "amount": 3.00
+                  },
+                  {
+                    "name": {
+                      "bg": "средна",
+                      "en": "medium"
+                    },
+                    "amount": 6.50
+                  }
+                ]
+              },
+              {
+                "sequence": 2,
+                "name": {
+                  "bg": "капричоза",
+                  "en": "capricciosa"
+                },
+                "description": {
+                  "bg": "доматен сос, шунка, бекон, гъби, маслини, кисели краставички, моцарела",
+                  "en": "tomato sauce, ham, bacon, mushrooms, olives, pickles, mozarella"
+                },
+                "price": [
+                  {
+                    "name": {
+                      "bg": "малка",
+                      "en": "small"
+                    },
+                    "amount": 4.50
+                  },
+                  {
+                    "name": {
+                      "bg": "средна",
+                      "en": "medium"
+                    },
+                    "amount": 9.00
+                  }
+                ]
+              },
+              {
+                "sequence": 3,
+                "name": {
+                  "bg": "куатро формаджи",
+                  "en": "quattro formaggi"
+                },
+                "description": {
+                  "bg": "доматен сос, сирене, кашкавал, молено сирене, синьо сирене",
+                  "en": "tomato sauce, cheese, yellow cheese, smoked cheese, blue cheese"
+                },
+                "price": [
+                  {
+                    "name": {
+                      "bg": "малка",
+                      "en": "small"
+                    },
+                    "amount": 4.50
+                  },
+                  {
+                    "name": {
+                      "bg": "средна",
+                      "en": "medium"
+                    },
+                    "amount": 9.00
+                  }
+                ]
+              },
+              {
+                "sequence": 4,
+                "name": {
+                  "bg": "куатро стаджони",
+                  "en": "quattro stagioni"
+                },
+                "description": {
+                  "bg": "доматен сос, бекон, гъби, яйце, моцарела",
+                  "en": "tomato sauce, bacon, mushrooms, egg, mozarella"
+                },
+                "price": [
+                  {
+                    "name": {
+                      "bg": "малка",
+                      "en": "small"
+                    },
+                    "amount": 4.50
+                  },
+                  {
+                    "name": {
+                      "bg": "средна",
+                      "en": "medium"
+                    },
+                    "amount": 9.00
+                  }
+                ]
+              },
               {
                 "sequence": 5,
                 "name": {
