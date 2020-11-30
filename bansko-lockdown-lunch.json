@@ -248,6 +248,82 @@
             ]
           }
         ]
+      },
+      {
+        "type": "day",
+        "date": "2020-11-30",
+        "source": "https://www.facebook.com/permalink.php?story_fbid=700310887354105&id=241483769903488",
+        "section": [
+          {
+            "sequence": 1,
+            "name": {
+              "bg": "супи",
+              "en": "soup"
+            },
+            "item": [
+              {
+                "sequence": 1,
+                "name": {
+                  "bg": "таратор",
+                  "en": "tarator"
+                },
+                "price": [
+                  {
+                    "amount": 2.50
+                  }
+                ]
+              },
+              {
+                "sequence": 2,
+                "name": {
+                  "bg": "зеленчукова крем супа",
+                  "en": "vegetable cream soup"
+                },
+                "price": [
+                  {
+                    "amount": 2.50
+                  }
+                ]
+              },
+              {
+                "sequence": 3,
+                "name": {
+                  "bg": "леща супа",
+                  "en": "lentil soup"
+                },
+                "price": [
+                  {
+                    "amount": 2.30
+                  }
+                ]
+              },
+              {
+                "sequence": 4,
+                "name": {
+                  "bg": "пилешка супа",
+                  "en": "chicken soup"
+                },
+                "price": [
+                  {
+                    "amount": 2.50
+                  }
+                ]
+              },
+              {
+                "sequence": 5,
+                "name": {
+                  "bg": "шкембе чорба",
+                  "en": "tripe soup"
+                },
+                "price": [
+                  {
+                    "amount": 3.00
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   }
